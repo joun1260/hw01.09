@@ -1,5 +1,5 @@
 
-text_1
+text_1: work*s plan.
 1.
 2.
 3.
